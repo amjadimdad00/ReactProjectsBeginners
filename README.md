@@ -1,6 +1,6 @@
 # 05 React Practice Projects for Beginners 🎉
 
-![React Course](/img.jpeg)
+![React Course](/img.png)
 
 ## Overview 📚
 
@@ -47,29 +47,26 @@ Follow these steps to run the projects locally:
 
 1. Clone the repository:
 
-   ````bash
+   ```bash
    git clone https://github.com/amjadimdad00/ReactProjectsBeginners.git
    cd ReactProjectsBeginners
-   ```
 
-   ````
+   ```
 
 2. Install dependencies:
 
-   ````bash
+   ```bash
    npm install
-   ```
 
-   ````
+   ```
 
 3. Navigate to a project folder (e.g., `project-01`) and start the development server:
 
-   ````bash
+   ```bash
    cd project-01
    npm start
-   ```
 
-   ````
+   ```
 
 4. Open your browser and go to `http://localhost:5173`. 🌍
 
@@ -98,20 +95,17 @@ Contributions are welcome! If you have suggestions or want to add more projects,
 
 1. Fork the repository
 2. Create a feature branch:
-   ````bash
+   ```bash
    git checkout -b feature/your-feature-name
    ```
-   ````
 3. Commit your changes:
-   ````bash
+   ```bash
    git commit -m 'Add some feature'
    ```
-   ````
 4. Push to the branch:
-   ````bash
+   ```bash
    git push origin feature/your-feature-name
    ```
-   ````
 5. Open a pull request
 
 ---
