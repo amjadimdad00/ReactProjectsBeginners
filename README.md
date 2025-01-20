@@ -64,7 +64,7 @@ Follow these steps to run the projects locally:
 
    ```bash
    cd project-01
-   npm start
+   npm run dev
 
    ```
 
