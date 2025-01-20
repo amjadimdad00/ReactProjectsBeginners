@@ -37,7 +37,7 @@
 ## Figma Design 🎨
 
 You can find the complete Figma design for all projects here:
-[View Figma Design](https://www.figma.com/design/ApQVrImqEjxqAVWrWmhEXW/5-REACT-PROJECTS-FOR-BEGINNERS?node-id=0-1&m=dev&t=FyYIQWh9UUh8peo0-1)
+<a href="https://www.figma.com/design/ApQVrImqEjxqAVWrWmhEXW/5-REACT-PROJECTS-FOR-BEGINNERS?node-id=0-1&m=dev&t=FyYIQWh9UUh8peo0-1" target="_blank">View Figma Design</a>
 
 ---
 
@@ -112,7 +112,7 @@ Contributions are welcome! If you have suggestions or want to add more projects,
 
 ## License 📜
 
-MIT license. Copyright © 2024 - [amjadimdad00](https://amjadimdad00.vercel.app).
+MIT license. Copyright © 2024 - <a href="https://amjadimdad00.vercel.app" target="_blank">amjadimdad00</a>.
 
 ---
 
